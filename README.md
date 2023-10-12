@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielPinto05
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, and soon JavaScript
+- 👀 I’m interested in data, particularly as applied to the physical sciences research and development
+- 🌱 I’m currently learning/working in Python with Pandas, Matplotlib, and Scipy
 - 💞️ You can reach me at danielpintolzr@gmail.com
 
 <!---
