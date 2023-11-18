@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielPinto05
-- 👀 I’m interested in data science and simple machine learning, particularly as applied to the physical sciences research and development
-- 🌱 I’m currently learning/working in Python with Pandas, Matplotlib, and Scipy
+- 👀 I'm working with the software team at UTAT
+- 🌱 I’m currently learning/working in C++
 - 💞️ You can reach me at danielpintolzr@gmail.com
 
 <!---
